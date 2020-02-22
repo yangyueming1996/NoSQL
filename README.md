@@ -1,2 +1,5 @@
 # NoSQL
-tse2020
+Membres:
+* YANG Yueming
+* YU Xuanlong
+* LI Qi
